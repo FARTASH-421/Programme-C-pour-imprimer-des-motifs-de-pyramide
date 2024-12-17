@@ -1,2 +1,1 @@
-![Example Image](image/example.jpg)
-<img ulr="image/Cpp-Pattern-Programs.webp"></>
+![Example Image](image/Cpp-Pattern-Programs.webp)
