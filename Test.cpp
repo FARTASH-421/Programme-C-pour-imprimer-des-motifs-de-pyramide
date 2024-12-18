@@ -15,6 +15,7 @@ int main(){
 
     int sec = n;
 
+
     cout<<"hour: "<<hour<<endl;
     cout<<"mint: "<< mint<<endl;
     cout<<"sec: "<< sec<<endl;
